@@ -48,8 +48,39 @@
 
 Черновой список позже распишем как пункт первых шагов.
 
-* Microsoft Visual Studio
-* Embarcadero Rad Studio
+### Microsoft Visual Studio <img src="https://www.softmagazin.ru/upload/iblock/465/465ab82ea0228a77769d605a962e6e0d.jpg" width="40">
+[Скачать](https://visualstudio.microsoft.com/ru/) можно официального сайта. Предоставляет "из коробки" возможность работать с языками: C, C++, Python 3, PHP, C#, VB, HTML/JS/CSS.
+
+[Лицензия](https://visualstudio.microsoft.com/ru/license-terms/mlt553321/) данной IDE предполагает, что вы будете использовать в следующих целях:
+- для индивидуальной разработки, 
+- для целей обучения,
+- для разработки драйверов под ОС Windows,
+- для разработки программ распространяющихся под свободными лицензиями. 
+
+Скорее всего для вас подойдет какое-то из этих условий.
+
+Сама по себе данная среда предоставляет много инструментов:
+- редактор кода с подсказками ввода;
+- компилятор и систему отладки;
+- систему интеграции тестов в среду разработки;
+- систему сборки;
+- профилировщик нагрузки...
+
+И многое другое.
+
+**Для длительного использования нужен аккаунт MIcrosoft**
+
+### Embarcadero RAD Studio<img src="https://dtffvb2501i0o.cloudfront.net/images/logos/embt_primary_logo_black_new_idera.webp" width="120">
+
+[Скачать](https://www.embarcadero.com/ru/free-tools) можно официального сайта. Предоставляет "из коробки" возможность работать с языками: C++, Python 3, Delphy.
+
+[Лицензия](https://www.embarcadero.com/ru/products/rad-studio/rad-studio-eula) данной IDE предполагает, что вы будете использовать в следующих целях:
+- для целей обучения,
+- для некоммерческой разработки,
+- Для любой прочей деятельности по разработке ПО приносящей меньше 5000 USD приблыли в год.
+
+
+
 * IntelliJ IDEA
 * IntelliJ PyCharm
 * Eclipse
