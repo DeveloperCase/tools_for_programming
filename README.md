@@ -124,7 +124,7 @@ NetBeans IDE поддерживает:
 - поддержка нативных языков платформы
 
 
-### IDE от JetBrains ![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)
+### IDE от JetBrains <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="40">
 Список бесплатных IDE для обучения:
 - PyCharm Edu [Скачать](https://www.jetbrains.com/ru-ru/pycharm-edu/)
 - IntelliJ IDEA Edu [Скачать](https://www.jetbrains.com/ru-ru/idea-edu/)
